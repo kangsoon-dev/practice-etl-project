@@ -1,0 +1,7 @@
+data/.minio*
+data/bad/bad_lines.txt
+data/good/good_lines.txt
+data/processed/*
+src/logs/*
+src/plugins/*
+src/dags/__pycache__/*
